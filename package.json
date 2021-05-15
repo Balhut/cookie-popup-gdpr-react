@@ -43,6 +43,6 @@
     "typescript": "^4.1.3"
   },
   "dependencies": {
-    "cookie-popup-gdpr": "github:Balhut/cookie-popup-gdpr"
+    "cookie-popup-gdpr": "git://github.com/Balhut/cookie-popup-gdpr"
   }
 }
